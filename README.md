@@ -3,10 +3,7 @@
 # Corvus
 Low-power cost-effective home security system
 
-The system will flash an LED when the corresponding window/door has been opened, as well as have live offline camera view of the doors/windows through an LCD. 
-
-# Implementation  
-The user will be in a separate location with the ability to see the LCD as well as the LED indicators. Once a door/window has been opened, the corresponding LED will flash, letting the user know they need to direct their attention to the camera feed. 
+The user will be in a separate location with the ability to see the LCD as well as the LED indicators. Once a door/window has been opened, the corresponding LED will flash, letting the user know they need to direct their attention to the offline camera feed present on the LCD. 
 
 # Operating Instructions 
 
