@@ -18,7 +18,7 @@ The user will need to launch the Arducam Multiple-Camera, as well as launch the 
 ## Once Deployed 
 The user needs to remain in viewing angle/distance of the LEDS and when a door/window is opened they will be notified via flashing LED. 
 
-## Future Development 
+# Further Development 
 -Add speaker as well as audio alarm for an open door/window, as well as a sleep mode so the alarm is deactivated at the user's discretion 
 -Record camera feed and transfer to a local hard drive 
 -Add button for a door bell as well as a camera that will take priority over the others to show the main door. 
